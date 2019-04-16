@@ -5,7 +5,7 @@ package algorithm.java;
  * @date:2019/4/16
  * @des
  */
-public class ToLowerCase {
+public class ToLowerCase_709 {
     /**
      * Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
      * Example 1
